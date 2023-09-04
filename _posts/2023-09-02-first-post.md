@@ -12,6 +12,7 @@ The bugs <i class="fa fa-bug" style="color: #000000;"></i>
 * Turns out __ doesn't do italics but this _ does :\
 * Still need to add the papers I've read hehe 
 * I also need to upgrade my favicon, it's a little basic and I used this [site](https://favicon.io/) to create it. 
+* Turns out if the config URL is wrong the theme won't load and the website looks really janky
 * I'm sure there is more somewhere... 
 
 ʘ‿ʘ
