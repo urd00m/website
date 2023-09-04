@@ -12,7 +12,7 @@ title: Research
 </center>
 
 # Current Project
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the Declassiflow (accepted ACM '23) wrapping up I'm and currently on the look for a new project but I am leaning towards a side channel attack type project. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the Declassiflow project (accepted ACM '23) wrapping up I'm and currently on the look for a new project but I am leaning towards a side channel attack type project. 
 
 # Publications
 * <font size="2"><b>Declassiflow: A Static Analysis for Modeling Non-Speculative Knowledge to Relax Speculative Execution Security Measures</b><br>Rutvik Choudhary, Alan Wang, Zirui Zhao, Adam Morrison, Christopher W. Fletcher<br><i>To appear in Proceedings of the ACM Conference on Computer and Communications Security (CCS), 2023</i></font>
