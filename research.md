@@ -24,6 +24,8 @@ title: Research
 * Project Zero's spectre blog post https://googleprojectzero.blogspot.com/2018/01/reading-privileged-memory-with-side.html
 
 # Have read
+* _Pentimento: Data Remanence in Cloud FPGAs_ - Drewes et al., arXiv 2023 
+* _Collide+Power: Leaking Inaccessible Data with Software-based Power Side Channels_ - Kogler et al., USENIX Security 2023
 * _RowPress: Amplifying Read Disturbance in Modern DRAM Chips_ - Luo et al., ISCA 2023 
 * _INCEPTION: Exposing New Attack Surfaces with Training in Transient Execution_ - Trujillo et al., USENIX Security 2023 
 * Work in Progress <i class="fa fa-calendar" style="color: #000000;"></i>
