@@ -28,4 +28,9 @@ title: Research
 * _Collide+Power: Leaking Inaccessible Data with Software-based Power Side Channels_ - Kogler et al., USENIX Security 2023
 * _RowPress: Amplifying Read Disturbance in Modern DRAM Chips_ - Luo et al., ISCA 2023 
 * _INCEPTION: Exposing New Attack Surfaces with Training in Transient Execution_ - Trujillo et al., USENIX Security 2023 
+* _Differential Power Analysis_ - Kocher et al., CRYPTO 1999 
+* _Correlation Power Analysis with a Leakage Model_ - Brier et al., CHES 2004 
+* _Introduction to differential power analysis_ - Kocher et al., Journal of Cryptographic Engineering 2011 
+* _Going beyond the Limits of SFI: Flexible and Secure Hardware-Assisted In-Process Isolation with HFI_ - Narayan et al., ASPLOS 2023 
+* _Trusted Browsers for Uncertain Times_ - Kohlbrenner et al., USENIX 2016 
 * Work in Progress <i class="fa fa-calendar" style="color: #000000;"></i>
