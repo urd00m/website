@@ -12,7 +12,7 @@ title: Research
 </center>
 
 # Current Project
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the Declassiflow project (accepted ACM '23) wrapping up I'm and currently on the look for a new project but I am leaning towards a side channel attack type project. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the Declassiflow project (accepted ACM '23) wrapping up I'm switching gears to a uarch attack project / reverse engineering project. Very excited!  
 
 # Publications
 * <font size="2"><b>Declassiflow: A Static Analysis for Modeling Non-Speculative Knowledge to Relax Speculative Execution Security Measures</b><br>Rutvik Choudhary, Alan Wang, Zirui Zhao, Adam Morrison, Christopher W. Fletcher<br><i>To appear in Proceedings of the ACM Conference on Computer and Communications Security (CCS), 2023</i></font>
@@ -22,6 +22,10 @@ title: Research
 * CS 563 papers :) 
 * Phantom: Exploiting Decoder-detectable Mispredictions
 * Project Zero's spectre blog post https://googleprojectzero.blogspot.com/2018/01/reading-privileged-memory-with-side.html
+* RIDL (read beginning - need to finish when I get the time lol) 
+* Foreshadow
+* Zombieload (read beginning - need to finish when I get the time lol) 
+* Fallout (read beginning - need to finish when I get the time lol)
 
 # Have read
 * _Pentimento: Data Remanence in Cloud FPGAs_ - Drewes et al., arXiv 2023 
@@ -33,4 +37,9 @@ title: Research
 * _Introduction to differential power analysis_ - Kocher et al., Journal of Cryptographic Engineering 2011 
 * _Going beyond the Limits of SFI: Flexible and Secure Hardware-Assisted In-Process Isolation with HFI_ - Narayan et al., ASPLOS 2023 
 * _Trusted Browsers for Uncertain Times_ - Kohlbrenner et al., USENIX 2016 
+* _Red Team vs. Blue Team: A Real-World Hardware Trojan Detection Case Study Across Four Modern CMOS Technology Generations_ - Puschner et al., IEEE SP 2023 
+* _Bug Hunters’ Perspectives on the Challenges and Benefits of the Bug Bounty Ecosystem_ - Akgul et al., USENIX 2023 <-- Made me look into bug hunting, seems really cool 
+* _Augury: Using Data Memory-Dependent Prefetchers to Leak Data at Rest_ - Vicarte et al., IEEE SP 2022 
+* _Hertzbleed: Turning Power Side-Channel Attacks Into Remote Timing Attacks on x86_ - Wang et al., USENIX 2022 
+* _Frequency Throttling Side-Channel Attack_ - Liu et al., ACM CCS 2022 
 * Work in Progress <i class="fa fa-calendar" style="color: #000000;"></i>
