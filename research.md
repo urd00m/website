@@ -26,6 +26,7 @@ title: Research
 * Foreshadow
 * Zombieload (read beginning - need to finish when I get the time lol) 
 * Fallout (read beginning - need to finish when I get the time lol)
+* Chip Wars (book) 
 
 # Have read
 * _Pentimento: Data Remanence in Cloud FPGAs_ - Drewes et al., arXiv 2023 
@@ -42,4 +43,14 @@ title: Research
 * _Augury: Using Data Memory-Dependent Prefetchers to Leak Data at Rest_ - Vicarte et al., IEEE SP 2022 
 * _Hertzbleed: Turning Power Side-Channel Attacks Into Remote Timing Attacks on x86_ - Wang et al., USENIX 2022 
 * _Frequency Throttling Side-Channel Attack_ - Liu et al., ACM CCS 2022 
+* _Opening Pandora’s Box: A Systematic Study of New Ways Microarchitecture Can Leak Private Data_ - Vicarte et al., ISCA 2021 
+* _Private Information Retrieval_ - Char et al., FOCS 1995 
+* _How to Play any Mental Games_ - Goldreich et al., STOC 1987
+* _Proving UNSAT in Zero Knowledge_ - Leo et al., ACM CCS 2022
+* _Hash Gone Bad: Automated discovery of protocol attacks that exploit hash function weaknesses_ - Coeval et al., USENIX 2023 
+* _Circuit Structures for Improving Efficiency of Security and Privacy Tools_ - Zahur et al., IEEE SP 2013
+* _The Antrim County 2020 Election Incident: An Independent Forensic Investigation_ - Haldermann, USENIX Security 2022
+* _Space Odyssey: An Experimental Software Security Analysis of Satellites_ - Willbold et al., IEEE SP 2023
+* _Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models_ - Shan et al., USENIX 2023 
+* _An Efficient Design of Intelligent Network Data Plan_ - Zhou et al., USENIX 2023
 * Work in Progress <i class="fa fa-calendar" style="color: #000000;"></i>
