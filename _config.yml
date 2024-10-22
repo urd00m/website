@@ -4,8 +4,7 @@ tagline:             'Someone in CS'
 description:         'This <a href="https://www.linkedin.com/in/alan-wang-urd00m/" target="_blank">dudes</a> website. CS @ UIUC'
 url:                 https://urd00m.github.io
 baseurl:             ""
-paginate:            1
-permalink:           pretty
+# permalink:           pretty
 
 # About/contact
 author:
@@ -22,7 +21,10 @@ plugins:
 # Custom vars
 version:             1.2.0
 google_analytics_id: #UA-XXXX-Y
-paginate_path: "/blog/post:num/"
+
+# paginate
+paginate:            5
+paginate_path: "/blog/page:num/"
 
 # collections
 collections:
