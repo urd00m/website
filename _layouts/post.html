@@ -8,9 +8,14 @@ layout: default
   {{ content }}
 </div>
 
+<h3>
+<a href="{{ site.baseurl }}/test">Go Back and Read More!</a>
+</h3>
+  
 {% if site.related_posts.size >= 1 %}
 <div class="related">
   <h2>Related posts</h2>
+  {{ page.tags }}
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
       <li>

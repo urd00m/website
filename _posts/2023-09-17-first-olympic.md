@@ -1,6 +1,8 @@
 ---
 layout: post
 title: First Olympic Triathlon
+categories: General
+tags: General
 ---
 
 First olympic triathlon!  

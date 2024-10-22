@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Creating This Site :D
+categories: General
+tags: General
 ---
 
 After much debating I have decided to make a website. This site is built on the Jekyll Lanyon theme, you can find the template [here](https://github.com/poole/lanyon). 
