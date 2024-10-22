@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upgrading the Blog
+title: Peek-a-Walk
 tags: In-Progress
 ---
 
