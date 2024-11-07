@@ -166,7 +166,7 @@ h6:hover .header-link {
 
   /* Better Icon Rendering */
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+<65;29;19M  -moz-osx-font-smoothing: grayscale;
 }
 
 /**
@@ -200,4 +200,9 @@ a.anchor-link:active { color: #EC7963; }
 .icon-link {
   font-size: 90%;
   padding-left: 6px;
+}
+
+/* To center images */
+.center {
+    text-align: center;
 }
