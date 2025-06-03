@@ -94,9 +94,9 @@ title: Blog
 
 
 <details>
-<summary><font size="7">Reading</font></summary>
+<summary><font size="7">Research</font></summary>
 {% for post in site.posts %}
-{% if post.categories contains "Reading" %}
+{% if post.categories contains "Research" %}
 {% capture readtime %}{{ post.content | number_of_words | divided_by:265 | plus:1}}{% endcapture %}
 <ul class="tags">
   {% for tag in post.tags %}
