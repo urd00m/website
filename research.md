@@ -14,8 +14,8 @@ title: Research
 # Research Interests 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My research interests lie in hardware/systems security with a side on computer systems. Recently my work has been focused on discovering new side channel attack techniques and reverse engineering microarchitectural structures. I'm currently advised by [Profesor Chris Fletcher](https://cwfletcher.github.io/) in the BS/MS (thesis) program at UIUC. 
 
-# Current Project
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently working on projects in hardware security. Specifically, I am currently exploring mobile microarchitectural security. One of the goals of this work is to bridge the gap between theory and practice as well as changing how we think about microarchitectural security.
+# Current Focus
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently focusing on projects looking into mobile microarchitectural security. One of the goals of this work is to bridge the gap between theory and practice as well as changing how we think about microarchitectural security.
 
 # Publications
 * <font size="2"><b>Redacted</b><br>Nth Author<br><i>Planned for submission to a computer security conference</i></font>
