@@ -4,4 +4,5 @@ title: Peek-a-Walk
 tags: In-Progress
 ---
 
-peek-a-walk info (personal post)
+## Paper: [here](/assets/papers/peek-a-walk.pdf)  
+## Code: [here](https://github.com/FPSG-UIUC/Peek-a-Walk)
