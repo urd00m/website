@@ -5,7 +5,7 @@ title: About
 
 ![my picture](/assets/images/my_picture.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="300"}
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Alan Wang, a first year PhD student researching hardware security at the University of California, Berkeley (UCB) advised by [Profesor Chris Fletcher](https://cwfletcher.github.io/). My main focus is side channel attacks and defenses (hardware and software). Specifically, I focus on Spectre attacks and mobile microarchitectural security. I occasionally will dabble in computer systems research. Outside of research, I play soccer, swim, poorly play volleyball, and am slowly getting into surfing.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Alan Wang, a first year PhD student researching hardware security at the University of California, Berkeley (UCB) advised by [Profesor Chris Fletcher](https://cwfletcher.github.io/). My main focus is side channel attacks and defenses (hardware and software). Specifically, I focus on Spectre attacks and mobile microarchitectural security. I occasionally will dabble in computer systems research. Outside of research, I play soccer, swim, ski, poorly play volleyball, and am slowly getting into surfing.  
 
 <h2>What I do in the Summers</h2>
 - This past summer ('25), I visited Seattle, Los Angeles, Alaska, Iceland, Austria, Slovenia, and Croatia! They were all very beautiful (Iceland has been my favorite).  
