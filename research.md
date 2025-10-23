@@ -20,7 +20,7 @@ title: Research
 Alan Wang, Pranav Gopalkrishnan, Yingchen Wang, Christopher Fletcher, Hovav Shacham, David Kohlbrenner, Riccardo Paccagnella<br>
 <i>To appear in the Proceedings of the ACM Conference on Computer and Communications Security (CCS), 2025</i><br>
 [<a href="https://www.pixnapping.com" target="_blank">Website</a>][<a href="./assets/papers/pixnapping.pdf" target="_blank">Paper</a>][<a href="https://github.com/TAC-UCB/pixnapping" target="_blank">Code</a>]<br>
-<a href="https://nvd.nist.gov/vuln/detail/CVE-2025-48561" target="_blank">CVE-2025-48561</a>, <a href="https://source.android.com/docs/security/overview/acknowledgements#:~:text=and%20Riccardo%20Paccagnella-,CVE%2D2025%2D48561,-Alan%20ZACCARDELLE" target="_blank">Google Acknowledgement</a>, <a href="https://android.googlesource.com/platform/frameworks/native/+/20465375a1d0cb71cdb891235a9f8a3fba31dbf6" target="_blank">Partial Google Patch</a>, Google VRP Reward<br>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2025-48561" target="_blank">CVE-2025-48561</a>, <a href="https://source.android.com/docs/security/overview/acknowledgements#:~:text=and%20Riccardo%20Paccagnella-,CVE%2D2025%2D48561,-Alan%20ZACCARDELLE" target="_blank">Google Acknowledgement</a>, <a href="https://android.googlesource.com/platform/frameworks/native/+/20465375a1d0cb71cdb891235a9f8a3fba31dbf6" target="_blank">Partial Google Patch</a>, 2x Google VRP Reward<br>
 News: 
 <a href="https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/" target="_blank">Ars Technica</a>,
 <a href="https://www.theregister.com/2025/10/13/android_pixnapping_attack_captures_2fa_codes/" target="_blank">The Register</a>,
