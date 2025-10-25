@@ -1,7 +1,7 @@
 # Setup
 title:               Alan Wang
-tagline:             'Someone in CS'
-description:         'This <a href="https://www.linkedin.com/in/alan-wang-urd00m/" target="_blank">dudes</a> website. CS @ UIUC'
+tagline:             'Someone in Security'
+description:         'This <a href="https://www.linkedin.com/in/alan-wang-urd00m/" target="_blank">dudes</a> website. PhD @ UCB'
 url:                 https://urd00m.github.io
 baseurl:             ""
 # permalink:           pretty
@@ -10,7 +10,7 @@ baseurl:             ""
 author:
   name:              Alan Wang
   url:               https://urd00m.github.io
-  email:             alanlw2@illinois.edu
+  email:             wangalan@berkeley.edu
 
 # Gems
 plugins:
