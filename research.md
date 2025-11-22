@@ -26,7 +26,7 @@ News:
 <a href="https://www.cylab.cmu.edu/news/2025/10/13-pixnapping.html" target="_blank">Cylab News</a></font>
 
 * <font size="2"><b>EMT: An OS Framework for New Memory Translation Architectures</b><br>
-Siyuan Chai∗, Jiyuan Zhang∗, Jongyul Kim, <u>Alan Wang</u>, Fan Chung, Jovan Stojkovic, Weiwei Jia, Dimitrios Skarlatos, Josep Torrellas, and Tianyin Xur>
+Siyuan Chai∗, Jiyuan Zhang∗, Jongyul Kim, <u>Alan Wang</u>, Fan Chung, Jovan Stojkovic, Weiwei Jia, Dimitrios Skarlatos, Josep Torrellas, and Tianyin <bXur>
 <i>Appears in the Proceedings of the USENIX Symposium on Operating Systems Design and Implementation (OSDI), July 2025</i><br>
 [<a href="./assets/papers/EMT.pdf" target="_blank">Paper</a>][<a href="https://github.com/xlab-uiuc/emt" target="_blank">Code</a>]</font>
 
