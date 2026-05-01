@@ -15,6 +15,7 @@ title: Research
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My research interests lie in hardware/systems security with a side on computer systems. Recently my work has been focused on discovering new microarchitectural side channel attack techniques and reverse engineering microarchitectural structures. I'm currently advised by [Profesor Chris Fletcher](https://cwfletcher.github.io/) at the University of California, Berkeley. 
 
 # Publications
+* <font size="2"><b>Redacted: under submission :D</b><br>
 * <font size="2"><b>Pixnapping: Bringing Pixel Stealing out of the Stone Age</b><br>
 <u>Alan Wang</u>, Pranav Gopalkrishnan, Yingchen Wang, Christopher Fletcher, Hovav Shacham, David Kohlbrenner, Riccardo Paccagnella<br>
 <i>Appears in the Proceedings of the ACM Conference on Computer and Communications Security (CCS), 2025</i><br>
