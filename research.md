@@ -15,7 +15,7 @@ title: Research
 <!-- : width="300" -->
 
 # Research Interests 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My research interests lie in hardware/systems security with a side on computer systems. Recently my work has been focused on side-channel vulnerabilities inherent to graphics stacks and discovering new microarchitectural side-channel attack techniques. I'm currently advised by [Professor Chris Fletcher](https://cwfletcher.github.io/) at the University of California, Berkeley. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My research interests lie in hardware/systems security with a side on computer systems. Recently, my work has been focused on side-channel vulnerabilities inherent to graphics stacks and discovering new microarchitectural side-channel attack techniques. I'm currently advised by [Professor Chris Fletcher](https://cwfletcher.github.io/) at the University of California, Berkeley. 
 
 # Publications
 <ul>
