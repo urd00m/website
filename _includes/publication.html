@@ -1,0 +1,37 @@
+{%- assign pub = include.pub -%}
+<li style="font-size: 0.8em; margin-bottom: 1em;"><b>{{ pub.title }}</b><br>
+{%- if pub.authors %}
+{{ pub.authors }}<br>
+{%- endif %}
+{%- if pub.venue %}
+<i>{{ pub.venue }}</i><br>
+{%- endif %}
+{%- if pub.links %}
+{% for link in pub.links -%}
+[<a href="{{ link.url }}" target="_blank">{{ link.label }}</a>]
+{%- endfor %}<br>
+{%- endif %}
+{%- if pub.cves %}
+<i class="fa fa-bug" aria-hidden="true"></i> {% for cve in pub.cves -%}
+<a href="{{ cve.url }}" target="_blank">{{ cve.id }}</a>{% unless forloop.last %}, {% endunless %}
+{%- endfor %}<br>
+{%- endif %}
+{%- if pub.acknowledgements %}
+<i class="fa fa-handshake-o" aria-hidden="true"></i> {% for ack in pub.acknowledgements -%}
+<a href="{{ ack.url }}" target="_blank">{{ ack.label }}</a>{% unless forloop.last %}, {% endunless %}
+{%- endfor %}<br>
+{%- endif %}
+{%- if pub.patches %}
+<i class="fa fa-wrench" aria-hidden="true"></i> {% for patch in pub.patches -%}
+<a href="{{ patch.url }}" target="_blank">{{ patch.label }}</a>{% unless forloop.last %}, {% endunless %}
+{%- endfor %}<br>
+{%- endif %}
+{%- if pub.awards %}
+<span style="color: red;"><i class="fa fa-trophy" aria-hidden="true"></i> {{ pub.awards }}</span><br>
+{%- endif %}
+{%- if pub.news %}
+<i class="fa fa-newspaper-o" aria-hidden="true"></i> {% for n in pub.news -%}
+<a href="{{ n.url }}" target="_blank">{{ n.outlet }}</a>{% unless forloop.last %},
+{% endunless -%}
+{% endfor -%}
+{%- endif %}</li>

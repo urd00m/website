@@ -1,0 +1,6 @@
+# Theses data for research.md — same schema as publications.yml.
+# Most thesis entries only need `title` and `links`.
+
+- title: "Master's thesis"
+  links:
+    - { label: "Link", url: "https://www.ideals.illinois.edu/items/136230" }

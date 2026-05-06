@@ -189,6 +189,18 @@ a.sidebar-nav-item:focus {
   background-color: rgba(255,255,255,.1);
   border-color: transparent;
 }
+.sidebar-nav-row {
+  display: flex;
+  border-top: 1px solid rgba(255,255,255,.1);
+}
+.sidebar-nav-row .sidebar-nav-item-half {
+  flex: 1;
+  border-top: 0;
+  text-align: center;
+}
+.sidebar-nav-row .sidebar-nav-item-half + .sidebar-nav-item-half {
+  border-left: 1px solid rgba(255,255,255,.1);
+}
 
 @media (min-width: 48em) {
   .sidebar-item {
