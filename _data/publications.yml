@@ -33,7 +33,8 @@
     - { label: "Second Google Acknowledgement", url: "https://source.android.com/docs/security/overview/acknowledgements#:~:text=CVEs-,Alan%20Wang%2C%20Pranav%20Gopalkrishnan%2C%20Yingchen,-Wang%2C%20Christopher%20W.%20Fletcher%2C%20Hovav%20Shacham%2C%20David%20Kohlbrenner%2C%20Riccardo" }
   patches:
     - { label: "First Google Patch",  url: "https://android.googlesource.com/platform/frameworks/native/+/20465375a1d0cb71cdb891235a9f8a3fba31dbf6" }
-    - { label: "Second Google Patch", url: "https://android.googlesource.com/platform/frameworks/native/+/c81cf361489e3a3cd764c0a0c85c84958e25d63c" }
+    - { label: "Second Google Patch", url: "https://android.googlesource.com/platform/frameworks/native/+/775d6a17c03eb24c11521f3a0c4bd503dd875b77" }
+    - { label: "Third Google Patch", url: "https://android.googlesource.com/platform/frameworks/native/+/c81cf361489e3a3cd764c0a0c85c84958e25d63c" }
   awards: "3x Google VRP Reward :D"
   news:
     - { outlet: "Ars Technica",     url: "https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/" }
