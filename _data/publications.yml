@@ -19,7 +19,7 @@
   venue: "Under submission :D"
 
 - title: "Pixnapping: Bringing Pixel Stealing out of the Stone Age"
-  authors: "<u>Alan Wang</u>, Pranav Gopalkrishnan, Yingchen Wang, Christopher Fletcher, Hovav Shacham, David Kohlbrenner, Riccardo Paccagnella"
+  authors: "<u>Alan Wang</u>, Pranav Gopalkrishnan, Yingchen Wang, Christopher W. Fletcher, Hovav Shacham, David Kohlbrenner, Riccardo Paccagnella"
   venue: "Appears in the Proceedings of the ACM Conference on Computer and Communications Security (CCS), 2025"
   links:
     - { label: "Website", url: "https://www.pixnapping.com" }
